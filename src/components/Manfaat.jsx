@@ -3,12 +3,12 @@ import React from "react";
 const Manfaat = () => {
   return (
     <div>
-      <div className="bg-[#0d4875] p-4 text-center text-white font-bold text-xl">
+      <div className="bg-[#0d4875] p-4 text-center text-white font-bold text-lg">
         <h1>🧠 Manfaat untuk Anak:</h1>
       </div>
       <div className="my-8 p-4 flex flex-col gap-2">
         <div>
-          <h1 className="font-bold text-md">
+          <h1 className=" text-sm">
             1. Mengenal nilai-nilai Islam sejak dini
           </h1>
           <p>
@@ -85,3 +85,4 @@ const Manfaat = () => {
 };
 
 export default Manfaat;
+
