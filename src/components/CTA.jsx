@@ -13,7 +13,7 @@ const CTA = () => {
         </p>
         <div className="flex items-center justify-center my-8">
           <a
-            href="https://nusaibadigital.orderonline.id/1200-worksheet-anak-tema-islami-bonus"
+            href="https://nusaiba-digital.myscalev.com/1200-worksheet-anak-tema-islami-bonus"
             className="py-2 px-4 w-10/12 mx-auto bg-green-600 hover:bg-green-700 text-white font-bold rounded-md shadow-md cursor-pointer"
           >
             BELI SEKARANG
@@ -25,3 +25,4 @@ const CTA = () => {
 };
 
 export default CTA;
+
