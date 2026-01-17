@@ -12,7 +12,7 @@ const Topik = () => {
         yaitu:
       </p>
       {/* <img src={topikImage[0].url} alt={topikImage[0].alt} /> */}
-      <div className="px-8 " >
+      <div className="px-6" >
         <p>
           ✅️ Worksheet puasa (10 lembar) <br /> ✅️ Rukun iman & islam (7
           lembar) <br /> ✅️ Sholat & Wudhu (21 Lembar) <br /> ✅️ Sifat-sifat
@@ -51,4 +51,5 @@ const Topik = () => {
 };
 
 export default Topik;
+
 
