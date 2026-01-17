@@ -36,7 +36,7 @@ const BonusAndPricing = () => {
       </div>
       <div className="p-6 text-center">
         <h1 className="text-2xl text-green-600 font-bold mb-4">
-          Cuma Rp20.000
+          Cuma Rp30.000
         </h1>
         <p className="text-lg">
           📥 Beli sekali, bisa Digunakan selamanya
@@ -62,4 +62,5 @@ const BonusAndPricing = () => {
 };
 
 export default BonusAndPricing;
+
 
